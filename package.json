@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node dist/index.js",
     "build": "rimraf dist && swc ./src -d dist"
   },
   "keywords": [],

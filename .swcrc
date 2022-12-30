@@ -1,11 +1,12 @@
 {
+  "$schema": "https://json.schemastore.org/swcrc",
   "env": {
-    "target": {
-      "node": 18
+    "targets":{
+      "node": "18"
     }
   },
   "jsc": {
-    "parcer": {
+    "parser": {
       "syntax": "typescript"
     }
   },

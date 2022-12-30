@@ -1,3 +1,4 @@
+"use strict";
 console.log("hello world ");
-export {};
-//# sourceMappingURL=index.js.map
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9pbmRleC50cyJdLCJzb3VyY2VzQ29udGVudCI6WyJjb25zb2xlLmxvZyhcImhlbGxvIHdvcmxkIFwiKVxuIl0sIm5hbWVzIjpbImNvbnNvbGUiLCJsb2ciXSwibWFwcGluZ3MiOiJBQUFBQTtBQUFBQSxRQUFRQyxHQUFHLENBQUMifQ==
