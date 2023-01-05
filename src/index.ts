@@ -6,9 +6,9 @@ app.use(morgan('dev'))
 
 app.get('/', (req, res) => {
   res.json({
-    hello: 'world',
-    mew: 'mew',
-    meww: 'meww'
+    firstName: 'imran',
+    lastName: 'hossain',
+    title: 'full Stack Devloper'
   })
 })
 
