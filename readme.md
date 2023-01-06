@@ -1,2 +1,3 @@
-# 🟢 Node TypeScript SWC
+# 🟢 Node TypeScript Express
 
+- SWC, PNPM
