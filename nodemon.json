@@ -2,6 +2,6 @@
   "watch": ["src"],
   "ignore": ["src/**/*.test.ts", "node_modules"],
   "ext": "ts,mjs,js,json,graphql",
-  "exec": "etsc && node ./dist/server.js",
+  "exec": "rimraf dist && swc ./src -d dist && node dist/index.js",
   "legacyWatch": true
 }
