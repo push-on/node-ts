@@ -1,2 +1,0 @@
-# 🟢 Node TypeScript SWC
-
